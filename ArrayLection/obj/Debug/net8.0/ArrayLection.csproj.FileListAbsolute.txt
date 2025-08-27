@@ -1,0 +1,15 @@
+C:\projects\lection2\ArrayLection\bin\Debug\net8.0\ArrayLection.exe
+C:\projects\lection2\ArrayLection\bin\Debug\net8.0\ArrayLection.deps.json
+C:\projects\lection2\ArrayLection\bin\Debug\net8.0\ArrayLection.runtimeconfig.json
+C:\projects\lection2\ArrayLection\bin\Debug\net8.0\ArrayLection.dll
+C:\projects\lection2\ArrayLection\bin\Debug\net8.0\ArrayLection.pdb
+C:\projects\lection2\ArrayLection\obj\Debug\net8.0\ArrayLection.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\lection2\ArrayLection\obj\Debug\net8.0\ArrayLection.AssemblyInfoInputs.cache
+C:\projects\lection2\ArrayLection\obj\Debug\net8.0\ArrayLection.AssemblyInfo.cs
+C:\projects\lection2\ArrayLection\obj\Debug\net8.0\ArrayLection.csproj.CoreCompileInputs.cache
+C:\projects\lection2\ArrayLection\obj\Debug\net8.0\ArrayLection.sourcelink.json
+C:\projects\lection2\ArrayLection\obj\Debug\net8.0\ArrayLection.dll
+C:\projects\lection2\ArrayLection\obj\Debug\net8.0\refint\ArrayLection.dll
+C:\projects\lection2\ArrayLection\obj\Debug\net8.0\ArrayLection.pdb
+C:\projects\lection2\ArrayLection\obj\Debug\net8.0\ArrayLection.genruntimeconfig.cache
+C:\projects\lection2\ArrayLection\obj\Debug\net8.0\ref\ArrayLection.dll
